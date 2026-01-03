@@ -4,6 +4,6 @@ Do the job that triggers your talent and eagerness towards a specific thing and 
 - SCHOOLING: KENDRIYA VIDYALAYA ARUVANAKDU
 - COLLEGE: DR.MAHALINGAM COLLEGE OF ENGINEEERING AND TECHNOLOGY
 - 🌱 I’m currently working front end development
-- 📫 How to reach me: email: sanjanamurugesan06@gmail.com
+- 📫 How to reach me: email: sanjanamurugesan20@gmail.com
                       linkedin:https: //www.linkedin.com/in/sanjana-murugesan
 
