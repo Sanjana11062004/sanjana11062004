@@ -1,9 +1,131 @@
-I'm a girl with a big dream. Future web developer currently pursuing an undergraduate degree in the discipline of Computer Science and engineering. Student at spotknack community. Love to learn new things. Girl with quick grasping power. Being a budding engineer I wish to contribute my talent to serve the people and provide them with a better lifestyle. I look forward to exploring many things and developing myself every day. 
+# Hi, I'm Sanjana 👋
 
-Do the job that triggers your talent and eagerness towards a specific thing and which makes you enthusiastic.
-- SCHOOLING: KENDRIYA VIDYALAYA ARUVANAKDU
-- COLLEGE: DR.MAHALINGAM COLLEGE OF ENGINEEERING AND TECHNOLOGY
-- 🌱 I’m currently working front end development
-- 📫 How to reach me: email: sanjanamurugesan20@gmail.com
-                      linkedin:https: //www.linkedin.com/in/sanjana-murugesan
+### Full Stack Developer | AI Engineer
+
+I'm a **Full Stack Developer with a strong interest in AI**, passionate about building scalable web applications, intelligent systems, and developer-focused products.
+
+I enjoy working across the stack — from designing responsive React interfaces and building robust backend APIs to integrating **LLMs, RAG pipelines, vector databases, and AI-powered features** into real-world applications.
+
+I believe in continuously learning, building, and turning ideas into products that solve meaningful problems.
+
+---
+
+## 🚀 What I Do
+
+* 💻 Build **full-stack web applications**
+* ⚙️ Design and develop **REST APIs & backend systems**
+* 🤖 Build **AI-powered applications using LLMs and RAG**
+* 🧠 Work with **embeddings, vector databases & semantic search**
+* 🗄️ Design and work with relational & NoSQL databases
+* 🔄 Build **background jobs, schedulers & asynchronous workflows**
+* ☁️ Explore **Docker, cloud technologies & scalable architectures**
+* 📚 Continuously improve my **DSA, system design & software engineering** skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`Java` `C#` `JavaScript` `TypeScript` `Python` `SQL`
+
+### Frontend
+
+`React` `HTML5` `CSS3` `Tailwind CSS`
+
+### Backend
+
+`.NET Core` `ASP.NET Core` `Node.js` `REST APIs` `Entity Framework Core`
+
+### Databases
+
+`PostgreSQL` `MySQL` `MongoDB` `pgvector`
+
+### AI / ML
+
+`LLMs` `RAG` `Embeddings` `Vector Search` `Semantic Search` `AI Agents`
+
+### DevOps & Tools
+
+`Git` `Docker` `Postman` `Hangfire` `Redis`
+
+---
+
+## 🧠 Currently Exploring
+
+* 🤖 LLM application development
+* 🔎 Retrieval-Augmented Generation (RAG)
+* 🧩 AI agents & tool calling
+* 🗃️ Vector databases & semantic search
+* 🏗️ System design & scalable backend architecture
+* ☁️ Cloud deployment
+* 📐 Advanced DSA & problem solving
+
+---
+
+## 🔥 Featured Projects
+
+### 🤖 AI-Powered Code Intelligence Platform
+
+An AI-powered platform designed to understand and interact with large codebases.
+
+**Tech:** React • .NET • PostgreSQL • pgvector • LLMs • RAG
+
+Features include:
+
+* Codebase ingestion
+* Semantic search
+* Vector embeddings
+* Context-aware AI responses
+* Code understanding
+* AI-powered developer assistance
+
+---
+
+### 📊 IoT Data Visualization Platform
+
+A full-stack platform for visualizing and interacting with IoT device data through dashboards, cards, filters, and personalized views.
+
+**Tech:** React • .NET • REST APIs • SQL
+
+---
+
+### 🏭 Preventive Maintenance System
+
+A production-oriented maintenance scheduling system involving recurrence rules, scheduled work orders, background processing, and reliability-focused job execution.
+
+**Tech:** .NET • PostgreSQL • Hangfire • RRULE • Background Jobs
+
+---
+
+## 💡 My Engineering Philosophy
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+I'm interested in more than simply making applications work.
+
+I care about:
+
+* Clean and maintainable code
+* Scalable architecture
+* Reliable backend systems
+* Good developer experience
+* Performance
+* Security
+* Real-world problem solving
+
+---
+
+## 🎯 My Goal
+
+To become a **strong product-focused Full Stack & AI Engineer** capable of designing and building complete intelligent products — from the frontend experience to backend architecture and AI infrastructure.
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** [sanjanamurugesan20@gmail.com](mailto:sanjanamurugesan20@gmail.com)
+
+💼 **LinkedIn:** [Sanjana Murugesan](https://www.linkedin.com/in/sanjana-murugesan)
+
 
